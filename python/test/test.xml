@@ -1,0 +1,34 @@
+<CHECK>
+ <PARAMS ACCOUNT_ID="00677158" CHECK_GUID="fe7e0c7f-7981-48bb-aaa5-adf28de4e73a" CALC_GUID="fe7e0c7f-7981-48bb-aaa5-adf28de4e73a" INITIAL_GUID="" TYPE="S" CHECK_DEPT_CODE="1-00122" CASHER="Кузичкина А.А." POS_ID="00019162" SESSION_ID="279" SESSION_DATE="2019-06-30 08:06:49" DATE="2019-06-30 18:39:00" CHECK_ID="5551" TOTAL="179.08" COUPON_TOTAL="" PAYMENT_BY_COUPON="0.00" PAYMENT_BY_CASH="0.00" PAYMENT_BY_CARD="179.08" PAYMENT_BY_ACCOUNT="0.00" PAYMENT_BY_SFT="" CHANGE_BY_SFT="" ORDER_ID="" ORDER_TYPE="" URL_EGAIS="" FD="133057" FP="323672179"/>
+ <LINES>
+  <LINE LINE_ID="4096196" MANAGER_NAME="" DEPT_CODE="350" PRODUCT_CODE="10-041891" CODE="2125552008255" NDS="НДС10" UNIT="KGM" QTY="0.825" PRICE="228.500000" FINAL_PRICE="217.070000" COUPON_PRICE="" COLOR_ID="" COLOR_NAME="" SIZE_ID="" SIZE_NAME="" MarkCode ="" CALC_INFO="" PRODUCT_TYPE=""/>
+ </LINES>
+ <CARDS></CARDS>
+ <DCARDS></DCARDS>
+ <PAYMENTS>
+  <CASH TOTAL="0.00"/><CARD PAYMENT_SYSTEM="30867549[30867463]" ORG_ID="500000014727" TERMINAL_ID="00768982" TOTAL="179.08" TYPE="59375679[59375625]" PAYMENT_TYPE="4:16383:0:1" CLIENT="Master Card;************5459;;" TRANS="00768982-1-018193-411438379661-156" STORNO_TRANS="" SLIP="            ФРЕШ 25             
+           г.Владивосток          
+          ул. Давыдова, 18        
+           т. (111)111111         
+  30.06.19     18:39    ЧЕК   0156
+               Оплата             
+  Терминал:               00768982
+  Мерчант:            500000014727
+  MASTERCARD        A0000000041010
+  Карта:(E1)      ************5459
+  Клиент:                         
+  Сумма (Руб):
+            179.08
+  Комиссия за операцию - 0 Руб.
+              ОДОБРЕНО
+  Код авторизации:          018193
+  Номер ссылки:       411438379661
+   Подпись клиента не требуется  
+  3D023FD79ACB528387A428FDFDBE25C3
+  ================================
+  
+  
+  
+  ~Si"/>
+ </PAYMENTS>
+</CHECK>

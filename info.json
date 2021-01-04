@@ -1,0 +1,7 @@
+{
+    "product":"developer","id" : "developer", 
+    "version":"11.7.0", 
+    "description" : "Разработчик",
+    "short_name" : "Разработчик",
+    "run_type":"login"
+}
